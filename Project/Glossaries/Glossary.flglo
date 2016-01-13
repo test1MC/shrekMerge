@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Weird Al</Term>
+    </Terms>
+    <Definition>Alfred Matthew "Weird Al" Yankovic (born October 23, 1959) is an American singer-songwriter, musician, parodist, record producer, satirist, music video director, film producer, and actor. Yankovic is known for his humorous songs that make light of popular culture and often parody specific songs by contemporary musical acts. Since his first-aired comedy song in 1976, he has sold more than 12 million albums (as of 2007),[2] recorded more than 150 parody and original songs,[3][4][5] and has performed more than 1,000 live shows.[6] His works have earned him three Grammy Awards among nine nominations, four gold records, and six platinum records in the United States. Yankovic's first top ten Billboard album (Straight Outta Lynwood) and single ("White &amp; Nerdy") were both released in 2006, nearly three decades into his career.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Lord Farquaad</Term>
+    </Terms>
+    <Definition>Lord Farquaad is the comically short-in-stature, ruthless ruler of Duloc. Several times in the film it is commented that, in his capital city Duloc's towering height, Farquaad may be compensating for something. His birthday is April 15th.
+In his pursuit of perfection, Farquaad attempts to rid his Kingdom of Fairy Tale creatures, offering a bounty for their capture and then exiling imprisoned creatures to Shrek's swamp. However, because Farquaad is not of royal stock, he cannot become a king until he marries a princess. He decides that Princess Fiona will be the perfect wife and queen, but she first must be rescued from her tower which is guarded by a fire-breathing dragon.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Princess Merida</Term>
+    </Terms>
+    <Definition
+      Link="">a skilled archer named Merida defies an age-old custom, causing chaos in her kingdom. After consulting a witch for help, Merida accidentally transforms her mother into a bear and is forced to undo the spell herself before it is too late. Brave premiered on June 10, 2012, at the Seattle International Film Festival, and was released in North America on June 22, 2012, to both positive reviews and box office success</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Wreck it Ralph</Term>
+    </Terms>
+    <Definition>Wreck-It Ralph is a 2012 American computer-animated family-comedy film[4] produced by Walt Disney Animation Studios and distributed by Walt Disney Pictures.[5] It is the 52nd animated feature in the Walt Disney Animated Classics series. The film was directed by Rich Moore, who has directed episodes of The Simpsons and Futurama, and the screenplay was written by Jennifer Lee and Phil Johnston from a story by Moore, Johnston and Jim Reardon. John Lasseter served as the executive producer. The film features the voices of John C. Reilly, Sarah Silverman, Jack McBrayer, and Jane Lynch. The film tells the story of the titular arcade game villain who rebels against his role and dreams of becoming a hero. He travels between games in the arcade, and ultimately must eliminate a dire threat that could affect the entire arcade, and one that Ralph himself inadvertently started.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Fiona</Term>
+    </Terms>
+    <Definition>Princess Fiona</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Shrek</Term>
+    </Terms>
+    <Definition
+      Link="">The mighty Ogre. Married to Princess Fiona</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Donkey</Term>
+    </Terms>
+    <Definition
+      Link="">Donkey is Shrek's best friend</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dragon</Term>
+    </Terms>
+    <Definition
+      Link="">Dragon is Donkey's wife.. DOAH!</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Gingy</Term>
+    </Terms>
+    <Definition>The GingerBread man</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

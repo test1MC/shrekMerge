@@ -1,0 +1,144 @@
+/*<meta />*/
+
+/*code to set footer found here: http://www.electrictoolbox.com/html-css-footer/ */
+
+html,
+body	/*set html,body height for footer to work*/
+{
+	height: 100%;
+}
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+body
+{
+	margin: 0;
+	/*The margins and padding for the top and bottom of the body must be 0. You can still set left-right margins and padding and it will work.*/
+	padding: 0;
+	background-color: #ffa500;
+}
+
+#top
+{
+	position: absolute;
+	/*This is set for Opera*/
+}
+
+#container
+{
+	min-height: 100%;
+	margin-bottom: 20px;
+}
+
+* html #container
+{
+	height: 100%;
+}
+
+MadCap|breadcrumbsProxy
+{
+	border-bottom-color: #b22222;
+	mc-breadcrumbs-prefix: 'Current page: ';
+	color: #a52a2a;
+	font-family: Andalus;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+MadCap|xref:focus
+{
+	color: #ff6347;
+}
+
+MadCap|xref
+{
+	color: #ff6347;
+}
+
+MadCap|xref:hover
+{
+	color: #00bfff;
+}
+
+h1
+{
+	color: #329999;
+	color: device-cmyk(0.67,0,0,0.4);
+	font-family: serif;
+}
+
+table
+{
+	margin-bottom: -1px;
+}
+
+MadCap|relatedTopics:hover
+{
+	color: #00ced1;
+}
+
+MadCap|footnote
+{
+	color: #00ff00;
+}
+
+MadCap|footnoteBlock
+{
+	color: #00ff00;
+}
+
+MadCap|listOfProxy
+{
+	border-top-style: outset;
+}
+
+MadCap|glossaryProxy
+{
+	mc-output-support: pdf;
+}
+
+div.GlossaryPageHeading
+{
+	
+}
+
+MadCap|keywordLinkControlListItemLink
+{
+	color: #1e90ff;
+}
+
+body.background
+{
+	height: 100%;
+	background-image: url('../Images/Far Far Away Castle ejsantos.com.JPG');
+}
+
+@media print
+{
+	body.background
+	{
+		background-image: url('../Images/Far Far Away Castle ejsantos.com.JPG');
+		background-color: #a9a9a9;
+	}
+}
+
+span.SearchHighlight
+{
+	background-color: #ffff00;
+}
+

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="Default.PrintOnly,Default.ScreenOnly">
+  <GlossaryEntry>
+    <Terms>
+      <Term>FarFarAway ( From merged Shrek project)</Term>
+    </Terms>
+    <Definition
+      Link="">An enchanted land where Shrex, Fiona, and Donkey live. Ruled by the evil Lord Farquaad.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    EvaluatedTerms="Donkey ( From merged Shrek project)"
+    EvaluatedDefinition="He talks, he sings, and he's married to a Dragon. Shreks best friend and right hand ass.">
+    <Terms>
+      <Term>Donkey ( From merged Shrek project)</Term>
+    </Terms>
+    <Definition
+      Link="">He talks, he sings, and he's married to a Dragon. Shreks best friend and right hand ass.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    EvaluatedTerms="Fiona ( From merged Shrek project)"
+    EvaluatedDefinition="Half human, half Ogre. Married to shrek.">
+    <Terms>
+      <Term>Fiona ( From merged Shrek project)</Term>
+    </Terms>
+    <Definition
+      Link="">Half human, half Ogre. Married to shrek.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    EvaluatedTerms="Shrek ( From merged Shrek project)"
+    EvaluatedDefinition="A swamp Ogre with a big heart. He tries to be nasty but is is not in his gentle nature. Married to Princess Fiona and best friend to Donkey.">
+    <Terms>
+      <Term>Shrek ( From merged Shrek project)</Term>
+    </Terms>
+    <Definition
+      Link="">A swamp Ogre with a big heart. He tries to be nasty but is is not in his gentle nature. Married to Princess Fiona and best friend to Donkey.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

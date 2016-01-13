@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="Dita"
+      Type="DITA"
+      LastBuilt="6/17/2013 7:49:37 AM"
+      LastPublished="" />
+    <Target
+      Name="Epub"
+      Type="EPUB"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="htmHelp"
+      Type="HTML Help"
+      LastBuilt="6/14/2013 9:53:04 AM"
+      LastPublished="" />
+    <Target
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="6/17/2013 9:22:56 AM"
+      LastPublished="" />
+    <Target
+      Name="html5two"
+      Type="HTML5"
+      LastBuilt="6/14/2013 1:58:44 PM"
+      LastPublished="" />
+    <Target
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      LastBuilt="6/17/2013 10:00:09 AM"
+      LastPublished="" />
+    <Target
+      Name="subFolder/dotnetHelp"
+      Type="DotNet Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="webH"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt="6/5/2013 1:47:32 PM"
+      LastPublished="" />
+    <Target
+      Name="WebHelp Air"
+      Type="WebHelp AIR"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="WebHelp Mobile"
+      Type="WebHelp Mobile"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="webHelpPlus"
+      Type="WebHelp Plus"
+      LastBuilt="6/5/2013 2:15:57 PM"
+      LastPublished="6/5/2013 2:16:00 PM" />
+    <Target
+      Name="word"
+      Type="Word"
+      LastBuilt="6/14/2013 2:07:53 PM"
+      LastPublished="" />
+    <Target
+      Name="XHTML"
+      Type="XHTML Book"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="XPS"
+      Type="XPS"
+      LastBuilt=""
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  AutoSync="true"
+  LastImport="2015-12-10T12:20:36.4748148-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/dspencer/Documents/My Projects/shrek/shrek.flprj"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/shrek.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/shrek.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/Don_project62/Content/shrek.htm" />
+    <Url
+      Source="../../Content/Fiona.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/Don_project62/Content/Fiona.htm" />
+    <Url
+      Source="../../Content/Donkey.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/Don_project62/Content/Donkey.htm" />
+    <Url
+      Source="../../Content/FarFarAway.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/Don_project62/Content/FarFarAway.htm" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../shrek/Content/Donkey.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/shrek/Content/Donkey.htm" />
+    <Url
+      Source="../../../shrek/Content/FarFarAway.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/shrek/Content/FarFarAway.htm" />
+    <Url
+      Source="../../../shrek/Content/Fiona.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/shrek/Content/Fiona.htm" />
+    <Url
+      Source="../../../shrek/Content/shrek.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/Test_Projects/DonShrekMerge/shrek/Content/shrek.htm" />
+    <Url
+      Source="../../../../../My Projects/shrek/Content/shrek_child.htm"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/shrek_child.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Donkey.htm"
+      TimeStamp="5/28/2013 12:44:35 PM" />
+    <Url
+      Source="../../Content/FarFarAway.htm"
+      TimeStamp="5/28/2013 12:49:17 PM" />
+    <Url
+      Source="../../Content/Fiona.htm"
+      TimeStamp="5/28/2013 12:43:51 PM" />
+    <Url
+      Source="../../Content/shrek.htm"
+      TimeStamp="5/28/2013 12:43:13 PM" />
+    <Url
+      Source="../../Content/shrek_child.htm"
+      TimeStamp="3/4/2015 1:23:00 PM" />
+  </GeneratedFiles>
+</CatapultProject>

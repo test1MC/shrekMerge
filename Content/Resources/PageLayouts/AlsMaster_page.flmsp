@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="624" MadCap:lastWidth="624">
+    <head>
+    </head>
+    <body>
+        <div id="top">
+            <!--used for opera-->
+        </div>
+        <div id="container">
+            <!--seperates the body content from the footer-->
+            <MadCap:breadcrumbsProxy />
+            <MadCap:bodyProxy />
+            <MadCap:miniTocProxy style="mc-toc-depth: 3;" />
+            <MadCap:glossaryProxy style="mc-glossary-headings: true;" MadCap:conditions="Default.PrintOnly" />
+        </div>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;">
+            <col style="width: 327px;" />
+            <col style="width: 369px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="color: #7b68ee;"><MadCap:variable name="System.LongDate" />
+                    </td>
+                    <td style="color: #7b68ee;"><MadCap:variable name="Variables.CompanyName" />
+                    </td>
+                    <td style="color: #7b68ee;">5555 Oak Park Dr. San Diego, ca. 92019</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

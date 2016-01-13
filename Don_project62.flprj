@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/oldDefault.flpgl" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.flglo" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" AutoSync="true" LastImport="2013-05-30T07:48:54.4207118-07:00">
+    <Files>
+        <Url Source="file:///C:/Users/dspencer/Documents/My Projects/shrek/shrek.flprj" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/shrek.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../shrek/Content/Donkey.htm" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Donkey.htm" />
+        <Url Source="../shrek/Content/FarFarAway.htm" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/FarFarAway.htm" />
+        <Url Source="../shrek/Content/Fiona.htm" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Fiona.htm" />
+        <Url Source="../shrek/Content/shrek.htm" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/shrek.htm" />
+        <Url Source="../shrek/Content/Resources/Images/donkey-shrek-640x9601.jpg" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Resources/Images/donkey-shrek-640x9601.jpg" />
+        <Url Source="../shrek/Content/Resources/Images/shrek_princess_fiona.jpg" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Resources/Images/shrek_princess_fiona.jpg" />
+        <Url Source="../shrek/Content/Resources/Images/th.jpg" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Resources/Images/th.jpg" />
+        <Url Source="../shrek/Project/Glossaries/shrekGlossary.flglo" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Project/Glossaries/shrekGlossary.flglo" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../shrek/Content/Resources/Stylesheets/Styles.css" AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/shrek/Content/Resources/Stylesheets/Styles.css" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="Content/Donkey.htm" TimeStamp="5/28/2013 12:44:35 PM" />
+        <Url Source="Content/FarFarAway.htm" TimeStamp="5/28/2013 12:49:17 PM" />
+        <Url Source="Content/Fiona.htm" TimeStamp="5/28/2013 12:43:51 PM" />
+        <Url Source="Content/shrek.htm" TimeStamp="5/28/2013 12:43:13 PM" />
+        <Url Source="Content/Resources/Images/donkey-shrek-640x9601.jpg" TimeStamp="5/28/2013 12:41:35 PM" />
+        <Url Source="Content/Resources/Images/shrek_princess_fiona.jpg" TimeStamp="5/28/2013 12:40:30 PM" />
+        <Url Source="Content/Resources/Images/th.jpg" TimeStamp="5/28/2013 12:39:00 PM" />
+        <Url Source="Project/Glossaries/shrekGlossary.flglo" TimeStamp="5/30/2013 7:24:20 AM" />
+    </GeneratedFiles>
+</CatapultProject>

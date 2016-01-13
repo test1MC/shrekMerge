@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1199" MadCap:lastWidth="1202">
+    <head>
+        <link href="Stylesheets/RalphTableStyle.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('Stylesheets/RalphTableStyle.css');caption-side: top;" class="TableStyle-RalphTableStyle" cellspacing="0">
+            <caption>Snippet table</caption>
+            <col class="TableStyle-RalphTableStyle-Column-Column1" style="width: 215px;" />
+            <col class="TableStyle-RalphTableStyle-Column-Column2" style="width: 252px;" />
+            <col class="TableStyle-RalphTableStyle-Column-Column1" />
+            <col class="TableStyle-RalphTableStyle-Column-Column2" style="width: 250px;" />
+            <col class="TableStyle-RalphTableStyle-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-RalphTableStyle-Head-Header1">
+                    <th class="TableStyle-RalphTableStyle-HeadE-Column1-Header1">Row Number</th>
+                    <th class="TableStyle-RalphTableStyle-HeadE-Column2-Header1">Column 1</th>
+                    <th class="TableStyle-RalphTableStyle-HeadE-Column1-Header1">Column 2</th>
+                    <th class="TableStyle-RalphTableStyle-HeadE-Column2-Header1">Column 3</th>
+                    <th class="TableStyle-RalphTableStyle-HeadD-Column1-Header1">Column 4</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-RalphTableStyle-Body-Body1">
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">Row 1</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-RalphTableStyle-Body-Body1">
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">Row 2</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-RalphTableStyle-Body-Body1">
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">Row 3</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">
+                        <MadCap:snippetBlock src="Link.flsnp" MadCap:conditions="Default.ignoreLink" />
+                        <MadCap:snippetBlock src="NoLink.flsnp" MadCap:conditions="Default.allow" />
+                    </td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-RalphTableStyle-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-RalphTableStyle-Body-Body1" MadCap:conditions="Default.Additional Rows">
+                    <td class="TableStyle-RalphTableStyle-BodyD-Column1-Body1" colspan="5">Additional rows using Snippet Conditions</td>
+                </tr>
+                <tr class="TableStyle-RalphTableStyle-Body-Body1" MadCap:conditions="Default.Additional Rows">
+                    <td class="TableStyle-RalphTableStyle-BodyA-Column1-Body1" colspan="5">&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="WebHelpPlus"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/PageLayouts/AlsMaster_page.flmsp"
+  Medium="non-print"
+  MasterStylesheet="/Content/Resources/Stylesheets/AlsSytles.css"
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings="20032,20033,20034,20035,20040,20036,20037,20038,20039,20041">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/ralph.fldes" />
+  </Destinations>
+</CatapultTarget>

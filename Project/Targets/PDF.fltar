@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="all"
+  MasterPageLayout="/Content/Resources/PageLayouts/oldDefault.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/AlsSytles.css"
+  InjectBookHeadings="true"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[Default.PrintOnly] "
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings="">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <PDF
+    DownsampleImages="true" />
+</CatapultTarget>

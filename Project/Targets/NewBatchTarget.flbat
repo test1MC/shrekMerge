@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="subFolder/dotnetHelp"
+      Type="DotNet Help"
+      Build="true"
+      LastBuilt="5/31/2013 1:52:04 PM"
+      LastPublished="" />
+    <Target
+      Name="htmHelp"
+      Type="HTML Help"
+      Build="true"
+      LastBuilt="6/3/2013 6:20:35 AM"
+      LastPublished="" />
+    <Target
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="6/3/2013 12:29:49 PM"
+      LastPublished="" />
+    <Target
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      LastBuilt="6/3/2013 12:30:04 PM"
+      LastPublished="" />
+    <Target
+      Name="webHelpPlus"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt="5/31/2013 1:00:19 PM"
+      LastPublished="" />
+    <Target
+      Name="word"
+      Type="Word"
+      Build="true"
+      LastBuilt="5/31/2013 12:59:44 PM"
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>

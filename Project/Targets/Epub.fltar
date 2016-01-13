@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  EnableDynamicContentInEpub="true"
+  ConditionTagExpression="exclude[Default.ScreenOnly] ">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Validation
+    EnableEpubCheck="true" />
+</CatapultTarget>

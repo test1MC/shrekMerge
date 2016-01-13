@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Kingdom"
+    Comment=""
+    Concepts="kingdom" />
+  <SearchFilter
+    Name="Far Away"
+    Comment=""
+    Concepts="FarAway" />
+</CatapultSearchFilterSet>

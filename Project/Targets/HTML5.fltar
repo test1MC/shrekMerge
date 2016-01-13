@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ExcludeIndexEntriesFromSearch="false"
+  PreMergeSearchDatabase="true"
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings=""
+  ConditionTagExpression="exclude[Default.PrintOnly] "
+  UseEmptyAltText="true"
+  ServerEnabled="false"
+  MinifyJavaScript="true"
+  SearchFilterSet="/Project/Advanced/Search Filters/SearchFilter.flsfs"
+  SearchResultsSkin="/Project/Skins/SerachResults.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/AlsSytles.css"
+  Skin="/Project/Skins/Tripane.flskn"
+  ReplaceSpacesWithUnderscores="true"
+  EnableFeedbackService="true"
+  LiveHelpServer="http://dspencer01/Pulse/"
+  LiveHelpKey="spbq1-jgh83-97dc2-21848-42979-97829-f119c-2026c"
+  RemoveMadCapStyles="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/CompanyName">Weird Al's world </Variable>
+  </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes" />
+  </Destinations>
+</CatapultTarget>
